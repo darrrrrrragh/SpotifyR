@@ -1,1 +1,1 @@
-# SpotifyR
+# SpotifyR Playing
